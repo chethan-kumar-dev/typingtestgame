@@ -18,8 +18,7 @@
     height: 200px;
     border-radius: 50%;
     background-position: center center;
-    left: 100px;
-
+    left: 80px;
     position: relative;
 }
 .score-history::-webkit-scrollbar {
