@@ -41,7 +41,7 @@ function timerun()
    function frame()
    {
         timer.innerHTML++;
-        if(timer.innerHTML==30)
+        if(timer.innerHTML==60)
         {
           clearInterval(id);
           modal.style.display="block";
